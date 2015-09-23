@@ -1,0 +1,11 @@
+Comma separated list:
+12, 34, 55, 77, 99
+
+Comma separated list:
+11.11, 23.44, 44.55, 123.66
+
+Comma separated list:
+Bob the Builder sells for $12.5, Thomas the Tank Engine sells for $15
+
+Comma separated list:
+Zaps owes $23.55, Martin owes $155.77, Fine owes $333.88, Torrence owes $123.99, Richard owes $20.06, Curtin owes $56999.2

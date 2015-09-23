@@ -1,0 +1,6 @@
+5
+John:Smith:1234567:3.21
+Taylor:Swift:7654321:5.43
+Joan:Anderson:1122334:4.25
+Bob:Cook:2211443:3.89
+Marry:Brand:1234432:5.23

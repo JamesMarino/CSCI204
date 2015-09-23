@@ -1,0 +1,13 @@
+Enter painting's title Fruit
+Enter artist Monet
+Enter painting's title Apple
+Enter artist Oodle
+Enter painting's title Banana
+Enter artist Degas
+Enter painting's title Orange
+Enter artist Plato
+Fruit by Monet value $25000
+Apple by Oodle value $400
+Banana by Degas value $25000
+Orange by Plato value $400
+

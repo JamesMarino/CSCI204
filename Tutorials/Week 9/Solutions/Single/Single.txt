@@ -1,0 +1,57 @@
+Instantiation attempts: 0
+The current address: 0
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+Instantiation attempts: 1
+The current address: 0xa040008
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+There is already one of these!
+Instantiation attempts: 2
+The current address: 0xa040008
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+There is already one of these!
+Instantiation attempts: 3
+The current address: 0xa040008
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+Instantiation attempts: 3
+The current address: 0
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+Instantiation attempts: 3
+The current address: 0
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+Instantiation attempts: 4
+The current address: 0xa040cd8
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+There is already one of these!
+Instantiation attempts: 5
+The current address: 0xa040cd8
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+There is already one of these!
+Instantiation attempts: 6
+The current address: 0xa040cd8
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+Instantiation attempts: 6
+The current address: 0
+Enter 2 to create a Singleton.
+Enter 1 to destroy a Singleton.
+Enter 0 to stop.
+Instantiation attempts: 6
+The current address: 0
+
